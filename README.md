@@ -19,7 +19,7 @@
     ```
 
 <div align='right'>
-Happy Coding,
+Dive into Hacking!
 
 Udemy プログラミング講師
 
